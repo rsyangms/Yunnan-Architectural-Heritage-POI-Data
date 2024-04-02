@@ -8,10 +8,8 @@ The architectural heritage contains rich cultural deposits and has important his
 2. Background of dataset research
 The construction techniques of Yunnan ancient architecture, closely combined with the local selection thinking and the flexible application of various ethnic folk crafts, have created extremely rich architectural forms, with strong local architectural characteristics, containing important historical value, artistic value and scientific value. At the same time, the protection of architectural heritage is the requirement of national development strategy. The protection of architectural heritage in Yunnan Province is faced with difficulties such as geological disaster damage and man-made damage, so the research on it is urgent.
 
-
 3. Dataset content
 Name, era, address, category and batch of architectural heritage in Yunnan Province
-
 
 4. Dataset basis
 National Architectural Heritage List (Batch 1 to 8)
